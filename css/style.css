@@ -1,0 +1,49 @@
+body{
+	background-image: url("file:///Users/hannaharkorful/Documents/arkorful%20webpage/images/hagihara-background-03.gif");
+	background-repeat: repeat;
+	background-attachment: scroll;
+	background-size: 561px;
+	background-position: center;
+}
+
+h1 {
+	font-family: helvetica;
+	font-weight: normal;
+	color: #FFFFFF;
+	font-size: 45px;
+	line-height: 20px;
+}
+h2 {
+	font-family: helvetica;
+	font-weight: normal;
+	color: #FFFFFF;	
+	font-size: 45px;
+	line-height: 0px;
+}
+
+a {
+
+	font-family: helvetica;
+	font-weight: normal;
+	color: #FFFFFF;
+	font-size: 45px;
+
+}
+
+/* https://www.w3schools.com/css/css_link.asp */
+a:link {
+  color: #FFFFFF;
+}
+
+a:visited {
+  color: #FFFFFF;
+}
+
+a:hover {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+a:active {
+  color: #FFFFFF;
+}
